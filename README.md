@@ -104,8 +104,4 @@ Devices follow the `NIX-[LOC]-[TYPE]-[SEQ]` naming convention.
 - **Driver injection:** virtio-win
 - **Hardware verification:** dmidecode
 
----
-
-## About
-
-Hi, I'm Nish. I'm a Cyber Security graduate from Swinburne University of Technology, working as an Information Services Engineer Graduate at RayGen Resources, with a background in penetration testing, network security, and identity and access management. This home lab is where I test and document infrastructure and security concepts outside of formal work.
+  
