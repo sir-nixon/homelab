@@ -104,4 +104,6 @@ Devices follow the `NIX-[LOC]-[TYPE]-[SEQ]` naming convention.
 - **Driver injection:** virtio-win
 - **Hardware verification:** dmidecode
 
-  
+---
+
+Maintained by Nish.
